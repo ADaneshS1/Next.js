@@ -20,7 +20,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By<h1>AWOKWAOK</h1>
+            By <h1>Ahmad Danesh Sudiono</h1>
             
             {/* <Image
               src="/vercel.svg"
@@ -43,7 +43,7 @@ export default function Home() {
           height={37}
           priority
         /> */}
-        <h1>ADS</h1>
+        <h1 className='text-4xl'>Ahmad Danesh Sudiono</h1>
 
       </div>
 
